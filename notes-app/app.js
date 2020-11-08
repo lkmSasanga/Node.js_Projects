@@ -11,14 +11,22 @@
 // const sum = add(3, 4)
 // console.log(sum)
 
-const validator = require('validator')
+// const validator = require('validator')
+
+const chalk = require('chalk')
 const myNotes = require('./notes.js')
 
 const msg = myNotes()
 console.log(msg)
 
-console.log(validator.isEmail('andrew@gmail.com'))
-console.log(validator.isURL('https://www.goolge.com'))
-console.log(validator.isFloat('simple'))
+// console.log(validator.isEmail('andrew@gmail.com'))
+// console.log(validator.isURL('https://www.goolge.com'))
+// console.log(validator.isFloat('simple'))
 
+const greenMsg = chalk.green.bold.inverse('Success!')
+const yellowMsg = chalk.yellow.bold('Success!')
+
+ 
+console.log(greenMsg)
+console.log(yellowMsg)
 
