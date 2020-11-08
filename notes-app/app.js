@@ -11,8 +11,14 @@
 // const sum = add(3, 4)
 // console.log(sum)
 
+const validator = require('validator')
 const myNotes = require('./notes.js')
 
 const msg = myNotes()
-
 console.log(msg)
+
+console.log(validator.isEmail('andrew@gmail.com'))
+console.log(validator.isURL('https://www.goolge.com'))
+console.log(validator.isFloat('simple'))
+
+
