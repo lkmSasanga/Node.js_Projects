@@ -16,21 +16,33 @@
 const chalk = require('chalk')
 const myNotes = require('./notes.js')
 
-const msg = myNotes()
-console.log(msg)
+// const msg = myNotes()
+// console.log(msg)
 
 // console.log(validator.isEmail('andrew@gmail.com'))
 // console.log(validator.isURL('https://www.goolge.com'))
 // console.log(validator.isFloat('simple'))
 
-const greenMsg = chalk.blue.bold.inverse('Success!')
-const yellowMsg = chalk.yellow.bold('Success!')
-const redMsg = chalk.red.bold.inverse('Error!')
+// const greenMsg = chalk.blue.bold.inverse('Success!')
+// const yellowMsg = chalk.yellow.bold('Success!')
+// const redMsg = chalk.red.bold.inverse('Error!')
 
 
- 
-console.log(greenMsg)
-console.log(yellowMsg)
-console.log(redMsg)
+// console.log(greenMsg)
+// console.log(yellowMsg)
+// console.log(redMsg)
+
+// to run in nodemon app.js
+
+// console.log(process.argv[2]) //input from console and add to arg array
+
+const command = process.argv[2]
+
+console.log(process.argv)
 
 
+if (command === 'add') {
+    console.log('Adding note!')
+} else if (command == 'remove') {
+    console.log('Removing note!')
+}
