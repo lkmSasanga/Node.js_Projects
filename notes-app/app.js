@@ -23,10 +23,14 @@ console.log(msg)
 // console.log(validator.isURL('https://www.goolge.com'))
 // console.log(validator.isFloat('simple'))
 
-const greenMsg = chalk.green.bold.inverse('Success!')
+const greenMsg = chalk.blue.bold.inverse('Success!')
 const yellowMsg = chalk.yellow.bold('Success!')
+const redMsg = chalk.red.bold.inverse('Error!')
+
 
  
 console.log(greenMsg)
 console.log(yellowMsg)
+console.log(redMsg)
+
 
