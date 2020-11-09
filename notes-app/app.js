@@ -14,7 +14,8 @@
 // const validator = require('validator')
 
 const chalk = require('chalk')
-const myNotes = require('./notes.js')
+const yargs = require('yargs')
+const notes = require('./notes.js')
 
 // const msg = myNotes()
 // console.log(msg)
@@ -36,13 +37,82 @@ const myNotes = require('./notes.js')
 
 // console.log(process.argv[2]) //input from console and add to arg array
 
-const command = process.argv[2]
+// const command = process.argv[2]
 
-console.log(process.argv)
+// console.log(process.argv)
 
 
-if (command === 'add') {
-    console.log('Adding note!')
-} else if (command == 'remove') {
-    console.log('Removing note!')
-}
+// if (command === 'add') {
+//     console.log('Adding note!')
+// } else if (command == 'remove') {
+//     console.log('Removing note!')
+// }
+
+//customize yargs version
+yargs.version('1.1.0')
+
+//create add command
+yargs.command( {
+    command: 'add',
+    describe: 'Add a new note',
+    builder: {
+        title: {
+            describe: 'Note title',
+            demandOption: true,
+            type: 'string'
+        },
+        body: {
+            describe: 'Note Description',
+            demandOption: true,
+            type: 'string'
+        }
+    },
+    handler: function (argv) {
+        // console.log('Title: ' + argv.title)
+        // console.log('Body: ' + argv.body)
+        notes.addNote(argv.title, argv.body)
+    }
+
+})
+
+//create remove command
+yargs.command( {
+    command: 'remove',
+    describe: 'Remove a note',
+    builder: {
+        title: {
+            describe: 'Note title',
+            demandOption: true,
+            type: 'string'
+        }
+    },
+    handler: function (argv) {
+        // console.log('Removing the note!')
+        notes.removeNote(argv.title)
+
+    }
+})
+
+// create list command
+yargs.command ({
+    command: 'list',
+    describe: 'List of notes',
+    handler: function () {
+        console.log('Showing the list of notes!')
+    }
+})
+
+//create read command
+yargs.command ({
+    command: 'read',
+    describe: 'Read a note',
+    handler: function () {
+        console.log('Reading a note!')
+    }
+})
+//add, remove, read, list
+
+yargs.parse()
+
+// console.log(process.argv)
+// console.log(yargs.argv)
