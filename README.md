@@ -3,7 +3,7 @@ Practice node js
 
 ### node modules used
 
-- nodemon
-- chalk
-- validator
-- yargs
+- nodemon - auto run
+- chalk - highlight
+- validator - validate data
+- yargs - inupts from cmd
