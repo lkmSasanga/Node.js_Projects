@@ -7,3 +7,4 @@ Practice node js
 - chalk - highlight
 - validator - validate data
 - yargs - inupts from cmd
+- request - http requests
