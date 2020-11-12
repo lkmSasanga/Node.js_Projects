@@ -3,14 +3,14 @@ const request = require('request')
 const forecast = (location, callback) => {
     const url = 'http://api.weatherstack.com/current?access_key=28fbc2383faf6e7f5ef1f201c994ed83&query=' + encodeURIComponent(location)+ '?language=si'
 
-    request({ url: url, json: true}, (error, response) => {
+    request({ url, json: true}, (error, { body }) => {
         if(error) {
             callback('Unable to connect location sevices!', undefined)
-        } else if (response.body.current.length == 0) {
+        } else if (body.error) {
             callback('Unable to find location. Find another search!', undefined)
         } else {
-            callback(undefined, 'It is currently '+ response.body.current.temperature +
-                ' degrees out in ' + response.body.location.name )
+            callback(undefined, 'It is currently '+ body.current.temperature +
+                ' degrees out in ' + body.location.name )
                 // {
                 // latitude: response.body.features[0].center[0],
                 // longitude: response.body.features[0].center[1],
