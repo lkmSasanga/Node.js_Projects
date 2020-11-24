@@ -8,3 +8,4 @@ Practice node js
 - validator - validate data
 - yargs - inupts from cmd
 - request - http requests
+- bcrypt - hash the user passwords
