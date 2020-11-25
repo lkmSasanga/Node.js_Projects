@@ -20,9 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04803e01-efd2-4fc6-a67f-b1c2f037e20d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/models/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +64,7 @@
       <workItem from="1606013578666" duration="14456000" />
       <workItem from="1606115307020" duration="20589000" />
       <workItem from="1606192083529" duration="18543000" />
-      <workItem from="1606270833959" duration="14083000" />
+      <workItem from="1606270833959" duration="23716000" />
     </task>
     <servers />
   </component>
@@ -76,5 +82,11 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1606302481980">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="140" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1606302481980" />
   </component>
 </project>
