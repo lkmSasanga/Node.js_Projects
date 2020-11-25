@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04803e01-efd2-4fc6-a67f-b1c2f037e20d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/notes.js" afterDir="false" />
@@ -59,7 +58,7 @@
       <workItem from="1606013578666" duration="14456000" />
       <workItem from="1606115307020" duration="20589000" />
       <workItem from="1606192083529" duration="18543000" />
-      <workItem from="1606270833959" duration="13733000" />
+      <workItem from="1606270833959" duration="14083000" />
     </task>
     <servers />
   </component>
