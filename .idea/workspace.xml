@@ -20,113 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04803e01-efd2-4fc6-a67f-b1c2f037e20d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/playground/9-async-await.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/playground/promise-chaining.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/playground/promise-chaining2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/db/mongoose.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/middleware/auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/notes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/4-callbacks.js" beforeDir="false" afterPath="$PROJECT_DIR$/playground/4-callbacks.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/5-es6-objects.js" beforeDir="false" afterPath="$PROJECT_DIR$/playground/5-es6-objects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ajv/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ajv/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-regex/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ansi-styles/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/asn1/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/asn1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/assert-plus/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/assert-plus/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/asynckit/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/asynckit/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/aws-sign2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/aws-sign2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/aws4/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/aws4/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/bcrypt-pbkdf/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/bcrypt-pbkdf/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/caseless/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/caseless/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/color-convert/conversions.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/color-convert/conversions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/color-convert/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/color-convert/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/color-convert/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/color-convert/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/color-convert/route.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/color-convert/route.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/color-name/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/color-name/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/combined-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/combined-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/core-util-is/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/core-util-is/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/dashdash/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/dashdash/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/delayed-stream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/delayed-stream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/ecc-jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/ecc-jsbn/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/extend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/extend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/extsprintf/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/extsprintf/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/fast-deep-equal/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/fast-deep-equal/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/fast-json-stable-stringify/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/fast-json-stable-stringify/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/forever-agent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/forever-agent/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/form-data/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/form-data/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/getpass/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/getpass/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/har-schema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/har-schema/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/har-validator/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/har-validator/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/http-signature/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/http-signature/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/license" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/license" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/is-fullwidth-code-point/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/is-typedarray/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/is-typedarray/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/isstream/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/isstream/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/jsbn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/jsbn/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/json-schema-traverse/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/json-schema-traverse/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/json-schema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/json-schema/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/json-stringify-safe/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/json-stringify-safe/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/jsprim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/jsprim/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/mime-db/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/mime-db/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/mime-types/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/mime-types/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/oauth-sign/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/oauth-sign/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/performance-now/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/performance-now/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/psl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/psl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/punycode/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/punycode/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/qs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/qs/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/lib/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/lib/auth.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/lib/getProxyFromURI.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/lib/getProxyFromURI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/lib/har.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/lib/har.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/request/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/request/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/safe-buffer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/safe-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/safer-buffer/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/safer-buffer/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/sshpk/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/sshpk/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/string-width/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/string-width/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/string-width/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/string-width/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/string-width/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/string-width/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/strip-ansi/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/cookie.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/cookie.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/memstore.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/memstore.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/store.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/lib/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tough-cookie/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tunnel-agent/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tunnel-agent/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/tweetnacl/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/tweetnacl/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/uri-js/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/uri-js/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/uuid/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/uuid/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/node_modules/verror/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/node_modules/verror/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weather-app/utils/forecast.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather-app/utils/forecast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/public/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/src/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/templates/partials/header.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/templates/partials/header.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/templates/views/about.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/templates/views/about.hbs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web-server/templates/views/index.hbs" beforeDir="false" afterPath="$PROJECT_DIR$/web-server/templates/views/index.hbs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +59,7 @@
       <workItem from="1606013578666" duration="14456000" />
       <workItem from="1606115307020" duration="20589000" />
       <workItem from="1606192083529" duration="18543000" />
-      <workItem from="1606270833959" duration="12386000" />
+      <workItem from="1606270833959" duration="13733000" />
     </task>
     <servers />
   </component>
