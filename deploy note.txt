@@ -1,0 +1,45 @@
+heroku deplyment
+
+first need sshk keys created  previously for github
+
+1. heroku keys:add
+2. heroku create malindu-weather-application
+
+heroku project folder name
+
+3. then edit package.json file and set scripts object content
+	"start": "node src/app.js"
+to run the application in heroku
+in locally we can use:- (npm run start) to run heroku app
+
+then we have to change heroku running port locally we used port 3000
+but env port must be provided to heroku
+
+const port = process.env.PORT || 3000
+
+then edit fetch url and remove localhost url 
+
+--------------------------------------------------------
+update project and apply changes to heroku and github
+--------------------------------------------------------
+
+
+git status
+git add .
+git commit -m ""
+git push origin master
+git push heroku master
+
+
+npm uninstall -g nodemon
+(uninstall globallly installed nodemon)
+
+npm i nodemon@1.2.0 --save-dev
+(to install locally and in devDependency) to avoid install in heroku
+to avoid insatlling nodemon in heroku deplyment which is 
+unnecessary
+
+
+when globally installed other peoples could able to know
+what dependenacies are installed
+
