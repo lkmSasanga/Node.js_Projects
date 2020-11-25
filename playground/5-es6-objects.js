@@ -2,7 +2,7 @@ const name = 'Malindu'
 const userAge = 23
 
 const user = {
-    name,           //shorthand
+    name, //shorthand
     age: userAge,
     location: 'Galle'
 }
@@ -29,8 +29,10 @@ const product = {
 // console.log(rating)
 
 
-const transaction = (type, {label, stock}) => {
+const transaction = (type, { label, stock = 0 } = {}) => {
     console.log(type, label, stock)
 }
+
+transaction('order')
 
 transaction('order', product)
