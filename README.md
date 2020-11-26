@@ -9,3 +9,4 @@ Practice node js
 - yargs - inupts from cmd
 - request - http requests
 - bcrypt - hash the user passwords
+- multer - upload files
