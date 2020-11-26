@@ -24,6 +24,8 @@
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/notes.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/notes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/src/models/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
@@ -64,7 +66,8 @@
       <workItem from="1606013578666" duration="14456000" />
       <workItem from="1606115307020" duration="20589000" />
       <workItem from="1606192083529" duration="18543000" />
-      <workItem from="1606270833959" duration="23716000" />
+      <workItem from="1606270833959" duration="27375000" />
+      <workItem from="1606356331183" duration="12614000" />
     </task>
     <servers />
   </component>
