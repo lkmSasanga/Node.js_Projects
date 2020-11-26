@@ -10,3 +10,4 @@ Practice node js
 - request - http requests
 - bcrypt - hash the user passwords
 - multer - upload files
+- sharp - resize large images
