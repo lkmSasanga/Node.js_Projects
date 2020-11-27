@@ -11,3 +11,4 @@ Practice node js
 - bcrypt - hash the user passwords
 - multer - upload files
 - sharp - resize large images
+- env-cmd - execute environment variables
