@@ -12,3 +12,4 @@ Practice node js
 - multer - upload files
 - sharp - resize large images
 - env-cmd - execute environment variables
+- supertest
