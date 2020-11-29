@@ -20,6 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04803e01-efd2-4fc6-a67f-b1c2f037e20d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/task-manager/src/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/tests/__mocks__/@sendgrid/mail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/tests/fixtures/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/tests/task.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task-manager/tests/user.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
@@ -27,10 +33,6 @@
       <change beforePath="$PROJECT_DIR$/task-manager/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task-manager/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-manager/src/models/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/task.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-manager/src/models/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/models/user.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/task.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/task.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task-manager/src/routers/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/task-manager/src/routers/user.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/task-manager" />
   </component>
   <component name="ProjectId" id="1kamN4ucbeahEYZjxPi0pNiiJhM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -67,7 +69,10 @@
       <workItem from="1606115307020" duration="20589000" />
       <workItem from="1606192083529" duration="18543000" />
       <workItem from="1606270833959" duration="27375000" />
-      <workItem from="1606356331183" duration="12614000" />
+      <workItem from="1606356331183" duration="21556000" />
+      <workItem from="1606444682916" duration="22404000" />
+      <workItem from="1606565464498" duration="6779000" />
+      <workItem from="1606618853012" duration="3772000" />
     </task>
     <servers />
   </component>
@@ -87,6 +92,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="240" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606586527984">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="240" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1606586527984" />
+    <state x="213" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606621727787">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="213" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1048@0.0.1920.1048" timestamp="1606621727787" />
     <state x="140" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1606302481980">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
