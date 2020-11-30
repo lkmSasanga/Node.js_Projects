@@ -15,3 +15,6 @@ Practice node js
 - supertest
 - socket.io
 - bad-words
+- mustache
+- moment
+- qs
