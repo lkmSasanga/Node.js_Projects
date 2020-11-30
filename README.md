@@ -13,3 +13,4 @@ Practice node js
 - sharp - resize large images
 - env-cmd - execute environment variables
 - supertest
+- socket.io
