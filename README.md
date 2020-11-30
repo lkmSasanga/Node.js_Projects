@@ -14,3 +14,4 @@ Practice node js
 - env-cmd - execute environment variables
 - supertest
 - socket.io
+- bad-words
