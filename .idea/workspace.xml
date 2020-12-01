@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04803e01-efd2-4fc6-a67f-b1c2f037e20d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chat-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chat-app/src/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task-manager/src/app.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task-manager/tests/__mocks__/@sendgrid/mail.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task-manager/tests/fixtures/db.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task-manager/tests/task.test.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/task-manager/tests/user.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/notes-app/node_modules/yargs/package.json" afterDir="false" />
@@ -40,7 +41,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/task-manager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kamN4ucbeahEYZjxPi0pNiiJhM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -72,7 +73,10 @@
       <workItem from="1606356331183" duration="21556000" />
       <workItem from="1606444682916" duration="22404000" />
       <workItem from="1606565464498" duration="6779000" />
-      <workItem from="1606618853012" duration="3772000" />
+      <workItem from="1606618853012" duration="8801000" />
+      <workItem from="1606703117685" duration="5785000" />
+      <workItem from="1606726161992" duration="3845000" />
+      <workItem from="1606793756790" duration="1974000" />
     </task>
     <servers />
   </component>
